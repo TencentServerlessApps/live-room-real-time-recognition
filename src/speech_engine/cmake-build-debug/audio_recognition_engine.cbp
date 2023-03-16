@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="audio_recognition_engine"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="clang"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/abel/Documents/PROJECTS/SCF/py/Media/trtc_audio_recognition/audio_recognition_engine/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/abel/Documents/PROJECTS/SCF/py/Media/trtc_audio_recognition/audio_recognition_engine/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/abel/Documents/PROJECTS/SCF/py/Media/trtc_audio_recognition/audio_recognition_engine/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/abel/Documents/PROJECTS/SCF/py/Media/trtc_audio_recognition/audio_recognition_engine/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/abel/Documents/PROJECTS/SCF/py/Media/trtc_audio_recognition/audio_recognition_engine/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="install/local">
+				<Option working_dir="/Users/abel/Documents/PROJECTS/SCF/py/Media/trtc_audio_recognition/audio_recognition_engine/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/abel/Documents/PROJECTS/SCF/py/Media/trtc_audio_recognition/audio_recognition_engine/cmake-build-debug/Makefile&quot;  VERBOSE=1 install/local"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/abel/Documents/PROJECTS/SCF/py/Media/trtc_audio_recognition/audio_recognition_engine/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/abel/Documents/PROJECTS/SCF/py/Media/trtc_audio_recognition/audio_recognition_engine/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/abel/Documents/PROJECTS/SCF/py/Media/trtc_audio_recognition/audio_recognition_engine/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="install/strip">
+				<Option working_dir="/Users/abel/Documents/PROJECTS/SCF/py/Media/trtc_audio_recognition/audio_recognition_engine/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/abel/Documents/PROJECTS/SCF/py/Media/trtc_audio_recognition/audio_recognition_engine/cmake-build-debug/Makefile&quot;  VERBOSE=1 install/strip"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/abel/Documents/PROJECTS/SCF/py/Media/trtc_audio_recognition/audio_recognition_engine/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/abel/Documents/PROJECTS/SCF/py/Media/trtc_audio_recognition/audio_recognition_engine/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/abel/Documents/PROJECTS/SCF/py/Media/trtc_audio_recognition/audio_recognition_engine/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="install">
+				<Option working_dir="/Users/abel/Documents/PROJECTS/SCF/py/Media/trtc_audio_recognition/audio_recognition_engine/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/abel/Documents/PROJECTS/SCF/py/Media/trtc_audio_recognition/audio_recognition_engine/cmake-build-debug/Makefile&quot;  VERBOSE=1 install"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/abel/Documents/PROJECTS/SCF/py/Media/trtc_audio_recognition/audio_recognition_engine/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/abel/Documents/PROJECTS/SCF/py/Media/trtc_audio_recognition/audio_recognition_engine/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/abel/Documents/PROJECTS/SCF/py/Media/trtc_audio_recognition/audio_recognition_engine/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="list_install_components">
+				<Option working_dir="/Users/abel/Documents/PROJECTS/SCF/py/Media/trtc_audio_recognition/audio_recognition_engine/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/abel/Documents/PROJECTS/SCF/py/Media/trtc_audio_recognition/audio_recognition_engine/cmake-build-debug/Makefile&quot;  VERBOSE=1 list_install_components"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/abel/Documents/PROJECTS/SCF/py/Media/trtc_audio_recognition/audio_recognition_engine/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/abel/Documents/PROJECTS/SCF/py/Media/trtc_audio_recognition/audio_recognition_engine/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/abel/Documents/PROJECTS/SCF/py/Media/trtc_audio_recognition/audio_recognition_engine/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="audio_recognition_engine">
+				<Option output="/Users/abel/Documents/PROJECTS/SCF/py/Media/trtc_audio_recognition/audio_recognition_engine/bin/audio_recognition_engined" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/abel/Documents/PROJECTS/SCF/py/Media/trtc_audio_recognition/audio_recognition_engine/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="/Users/abel/Documents/PROJECTS/SCF/py/Media/trtc_audio_recognition/audio_recognition_engine/asr/include"/>
+					<Add directory="/Users/abel/Documents/PROJECTS/SCF/py/Media/trtc_audio_recognition/audio_recognition_engine/common/include"/>
+					<Add directory="/Users/abel/Documents/PROJECTS/SCF/py/Media/trtc_audio_recognition/audio_recognition_engine/include"/>
+					<Add directory="/Users/abel/Documents/PROJECTS/SCF/py/Media/trtc_audio_recognition/audio_recognition_engine"/>
+					<Add directory="/usr/local/opt/openssl/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.3/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/abel/Documents/PROJECTS/SCF/py/Media/trtc_audio_recognition/audio_recognition_engine/cmake-build-debug/Makefile&quot;  VERBOSE=1 audio_recognition_engine"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/abel/Documents/PROJECTS/SCF/py/Media/trtc_audio_recognition/audio_recognition_engine/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/abel/Documents/PROJECTS/SCF/py/Media/trtc_audio_recognition/audio_recognition_engine/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/abel/Documents/PROJECTS/SCF/py/Media/trtc_audio_recognition/audio_recognition_engine/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="audio_recognition_engine/fast">
+				<Option output="/Users/abel/Documents/PROJECTS/SCF/py/Media/trtc_audio_recognition/audio_recognition_engine/bin/audio_recognition_engined" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/abel/Documents/PROJECTS/SCF/py/Media/trtc_audio_recognition/audio_recognition_engine/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="/Users/abel/Documents/PROJECTS/SCF/py/Media/trtc_audio_recognition/audio_recognition_engine/asr/include"/>
+					<Add directory="/Users/abel/Documents/PROJECTS/SCF/py/Media/trtc_audio_recognition/audio_recognition_engine/common/include"/>
+					<Add directory="/Users/abel/Documents/PROJECTS/SCF/py/Media/trtc_audio_recognition/audio_recognition_engine/include"/>
+					<Add directory="/Users/abel/Documents/PROJECTS/SCF/py/Media/trtc_audio_recognition/audio_recognition_engine"/>
+					<Add directory="/usr/local/opt/openssl/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.3/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/abel/Documents/PROJECTS/SCF/py/Media/trtc_audio_recognition/audio_recognition_engine/cmake-build-debug/Makefile&quot;  VERBOSE=1 audio_recognition_engine/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/abel/Documents/PROJECTS/SCF/py/Media/trtc_audio_recognition/audio_recognition_engine/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/abel/Documents/PROJECTS/SCF/py/Media/trtc_audio_recognition/audio_recognition_engine/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/abel/Documents/PROJECTS/SCF/py/Media/trtc_audio_recognition/audio_recognition_engine/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/abel/Documents/PROJECTS/SCF/py/Media/trtc_audio_recognition/audio_recognition_engine/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/abel/Documents/PROJECTS/SCF/py/Media/trtc_audio_recognition/audio_recognition_engine/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/abel/Documents/PROJECTS/SCF/py/Media/trtc_audio_recognition/audio_recognition_engine/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/abel/Documents/PROJECTS/SCF/py/Media/trtc_audio_recognition/audio_recognition_engine/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/abel/Documents/PROJECTS/SCF/py/Media/trtc_audio_recognition/audio_recognition_engine/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/abel/Documents/PROJECTS/SCF/py/Media/trtc_audio_recognition/audio_recognition_engine/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/abel/Documents/PROJECTS/SCF/py/Media/trtc_audio_recognition/audio_recognition_engine/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/abel/Documents/PROJECTS/SCF/py/Media/trtc_audio_recognition/audio_recognition_engine/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/abel/Documents/PROJECTS/SCF/py/Media/trtc_audio_recognition/audio_recognition_engine/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/abel/Documents/PROJECTS/SCF/py/Media/trtc_audio_recognition/audio_recognition_engine/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/abel/Documents/PROJECTS/SCF/py/Media/trtc_audio_recognition/audio_recognition_engine/asr/speech_recognizer.cpp">
+			<Option target="audio_recognition_engine"/>
+		</Unit>
+		<Unit filename="/Users/abel/Documents/PROJECTS/SCF/py/Media/trtc_audio_recognition/audio_recognition_engine/asr/tcloud_public_request_build.cpp">
+			<Option target="audio_recognition_engine"/>
+		</Unit>
+		<Unit filename="/Users/abel/Documents/PROJECTS/SCF/py/Media/trtc_audio_recognition/audio_recognition_engine/business/main.cpp">
+			<Option target="audio_recognition_engine"/>
+		</Unit>
+		<Unit filename="/Users/abel/Documents/PROJECTS/SCF/py/Media/trtc_audio_recognition/audio_recognition_engine/business/usages/TencentSDKWapperRecord.cpp">
+			<Option target="audio_recognition_engine"/>
+		</Unit>
+		<Unit filename="/Users/abel/Documents/PROJECTS/SCF/py/Media/trtc_audio_recognition/audio_recognition_engine/business/usages/TencentSDKWapperRecord.h">
+			<Option target="audio_recognition_engine"/>
+		</Unit>
+		<Unit filename="/Users/abel/Documents/PROJECTS/SCF/py/Media/trtc_audio_recognition/audio_recognition_engine/common/tcloud_util.cpp">
+			<Option target="audio_recognition_engine"/>
+		</Unit>
+		<Unit filename="/Users/abel/Documents/PROJECTS/SCF/py/Media/trtc_audio_recognition/audio_recognition_engine/CMakeHelpers.cmake">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="/Users/abel/Documents/PROJECTS/SCF/py/Media/trtc_audio_recognition/audio_recognition_engine/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

@@ -1,0 +1,7 @@
+/Users/abel/Documents/PROJECTS/SCF/py/Media/trtc_audio_recognition/speech_engine/cmake-build-debug/CMakeFiles/install/local.dir
+/Users/abel/Documents/PROJECTS/SCF/py/Media/trtc_audio_recognition/speech_engine/cmake-build-debug/CMakeFiles/install/strip.dir
+/Users/abel/Documents/PROJECTS/SCF/py/Media/trtc_audio_recognition/speech_engine/cmake-build-debug/CMakeFiles/install.dir
+/Users/abel/Documents/PROJECTS/SCF/py/Media/trtc_audio_recognition/speech_engine/cmake-build-debug/CMakeFiles/list_install_components.dir
+/Users/abel/Documents/PROJECTS/SCF/py/Media/trtc_audio_recognition/speech_engine/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/abel/Documents/PROJECTS/SCF/py/Media/trtc_audio_recognition/speech_engine/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/abel/Documents/PROJECTS/SCF/py/Media/trtc_audio_recognition/speech_engine/cmake-build-debug/CMakeFiles/AsrSpeechEngine.dir

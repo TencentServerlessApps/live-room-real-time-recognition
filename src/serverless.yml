@@ -1,0 +1,52 @@
+component: multi-scf
+name: live-room-real-time-recognition
+app: ${env:NAME}
+stage: prod
+inputs:
+  src:
+    src: ./
+    exclude:
+      - .env
+      - .env.example
+  region: '${env:REGION}'
+  runtime: Python3.6
+  role: SCF_QcsRole
+  memorySize: 512
+  isAutoPublish: true
+  publishDescription: Created By Serverless Framework
+  timeout: 86400
+  environments:
+    - key: REGION
+      value: '${env:REGION}'
+    - key: STAGE
+      value: '${stage}'
+    - key: SECRET_ID
+      value: '${env:TENCENT_CUSTOMER_SECRET_ID}'
+    - key: SECRET_KEY
+      value: '${env:TENCENT_CUSTOMER_SECRET_KEY}'
+  functions:
+    - name: '${app}-${name}'
+      src: ./
+      index:
+        handler: index.main_handler
+      memorySize: 512
+      timeout: 86400
+      asyncRunEnable: true
+      traceEnable: true
+  triggers:
+    - type: apigw
+      parameters:
+        name: serverless
+        protocols:
+          - http
+          - https
+        description: Serverless live room real-time recognition service API GW
+        environment: release
+        apis:
+          - path: /speech-recognition
+            method: ANY
+            description: Serverless REST API
+            responseType: JSON
+            serviceTimeout: 90
+            authType: APP
+            function: '${app}-${name}'
